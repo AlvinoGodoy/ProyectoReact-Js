@@ -1,0 +1,19 @@
+.navbar {
+    background-color: #ff0000; 
+    height: 150px;
+}
+
+.nav-link {
+    color:black;
+    font-size: 25px;
+    font-family: Verdana, sans-serif;
+
+}
+
+.rounded-image {
+    border-radius: 50%;
+}
+
+.bi bi-cart {
+    align-items:end;
+}
